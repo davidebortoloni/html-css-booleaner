@@ -54,3 +54,11 @@ main {
 .foto > figcaption {
     font-size: 14px;
 }
+
+.articolo {
+    font-size: 20px;
+}
+
+.articolo > ul {
+    margin: 0;
+}
