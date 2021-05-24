@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 .container {
     width: 80%;
     margin: auto;
@@ -5,7 +9,7 @@
 
 header {
     padding: 10px;
-    height: 100px;
+    height: 1px;
     background-image: url('../img/pattern.png');
     background-color: #4EA0FF;
     background-repeat: repeat;
@@ -88,4 +92,28 @@ thead {
 
 .evidenza {
     background-color: yellow;
+}
+
+h3 {
+    color: gray;
+}
+
+.correlati {
+    margin-top: 20px;
+    font-size: 25px;
+    color: white;
+    padding: 25px;
+    height: 200px;
+    width: 300px;
+    font-weight: 800;
+}
+
+.pc {
+    background-image: url("../img/monitor.jpg");
+    background-size: cover;
+}
+
+.map {
+    background-image: url("../img/graph.jpg");
+    background-size: cover;
 }
