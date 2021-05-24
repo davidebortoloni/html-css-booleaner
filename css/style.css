@@ -57,8 +57,35 @@ main {
 
 .articolo {
     font-size: 20px;
+    margin-bottom: 30px;
 }
 
 .articolo > ul {
     margin: 0;
+}
+
+.dati {
+    width: 100%;
+}
+
+thead {
+    text-align: left;
+    background-color: #20A9E5;
+    color: white;
+}
+
+.dispari {
+    background-color: #B1E5F2;
+}
+
+.pari {
+    background-color: white;
+}
+
+.descrizione {
+    width: 50%;
+}
+
+.evidenza {
+    background-color: yellow;
 }
