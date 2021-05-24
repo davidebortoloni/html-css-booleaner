@@ -1,15 +1,23 @@
+.container {
+    width: 80%;
+    margin: auto;
+}
+
 header {
-    height: 180px;
+    height: 115px;
     background-image: url('../img/pattern.png');
     background-color: #4EA0FF;
-    background-repeat: repeat-x;
+    background-repeat: repeat;
+    background-size: 450px;
 }
 
 header img {
-    height: 90px;
-    margin-top: 70px;
+    margin-left: 5px;
+    height: 60px;
+    margin-top: 45px;
 }
 
 h1 {
-    font-size: 60px;
+    margin-left: 5px;
+    font-size: 46px;
 }
