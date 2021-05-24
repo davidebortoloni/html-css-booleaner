@@ -1,0 +1,11 @@
+header {
+    height: 180px;
+    background-image: url('../img/pattern.png');
+    background-color: #4EA0FF;
+    background-repeat: repeat-x;
+}
+
+header img {
+    height: 90px;
+    margin-top: 70px;
+}
